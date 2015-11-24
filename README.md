@@ -12,6 +12,7 @@ Features:
   parses a list tail.
 - `crashdump_aparser:calc_limited_length({'#CDVLimitReached',"H790B5E00"}, 100)` -
   calculates a list length.
+- `crashdump_parser:read_binary("YcC0DE77D0:4D2:196")` - refc binary reader
 
 
 # Usage example
